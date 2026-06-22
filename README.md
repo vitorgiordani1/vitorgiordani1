@@ -1,14 +1,8 @@
 # Hi, I'm Vitor Giordani 👋
 
-```python
-student = {
-    "name": "Vitor Giordani",
-    "learning": ["Python", "Cybersecurity"],
-    "currently": "CS50P - Harvard",
-    "goal": "SOC Analyst 🔐",
-    "location": "Brazil 🇧🇷"
-}
-```
+🐍 Python Student | 🔐 Aspiring SOC Analyst | 🇧🇷 Brazil
+
+---
 
 ## 🐍 About Me
 
