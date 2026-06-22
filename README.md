@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Vitor Giordani 👋
 
-<!--
-**vitorgiordani1/vitorgiordani1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+student = {
+    "name": "Vitor Giordani",
+    "learning": ["Python", "Cybersecurity"],
+    "currently": "CS50P - Harvard",
+    "goal": "SOC Analyst 🔐",
+    "location": "Brazil 🇧🇷"
+}
+```
 
-Here are some ideas to get you started:
+## 🐍 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Python student passionate about cybersecurity.
+Currently building my foundations to become a SOC Analyst.
+Always learning, always improving.
+
+## 📚 Currently Studying
+- Python (CS50P - Harvard)
+- Cybersecurity fundamentals
+- TryHackMe
