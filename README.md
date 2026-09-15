@@ -1,6 +1,6 @@
 # Hi, I'm Vitor Giordani 👋
 
-🐍 Python Student - 🇧🇷 Brazil
+Web Developer and Python Student - 🇧🇷 Brazil
 
 ---
 
